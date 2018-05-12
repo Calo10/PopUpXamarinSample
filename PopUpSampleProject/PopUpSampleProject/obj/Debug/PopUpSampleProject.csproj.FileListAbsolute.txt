@@ -1,0 +1,16 @@
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\PopUpSampleProject.dll
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\PopUpSampleProject.pdb
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.csprojResolveAssemblyReference.cache
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.csproj.CoreCompileInputs.cache
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.MainPage.xaml.g.cs
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.App.xaml.g.cs
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.dll
+c:\users\hpenvy-1\source\repos\PopUpSampleProject\PopUpSampleProject\PopUpSampleProject\obj\Debug\PopUpSampleProject.pdb
